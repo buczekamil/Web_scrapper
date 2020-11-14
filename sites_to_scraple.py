@@ -17,4 +17,11 @@ sites = ('https://www.wsj.com',
          'https://www.cnbc.com/world/?region=world',
          # 'https://www.investing.com/' -> Blocked
          # 'https://www.bloomberg.com/' ->Blocked
+         'https://apnews.com/',
+         'https://www.spglobal.com/platts/en',
+         'https://www.forbes.com/energy/?sh=3c9b600fe33c',
+         'https://www.cnbc.com/energy/',
+         'https://www.cnbc.com/world/?region=world',
+         'https://www.foxnews.com/',
+         'https://oilprice.com/'
          )
