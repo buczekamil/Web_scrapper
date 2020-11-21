@@ -84,7 +84,7 @@ for site in sites:
     positive_words += pos
     negative_words += neg
     words_today += site_words_list
-differ = positive_words - negative_words
+differ = (positive_words - negative_words)/10
 
 print('---------------------------------------------------------')
 # Actual date
